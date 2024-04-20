@@ -1,0 +1,23 @@
+.imagen{
+    position: relative;
+}
+
+.heart{
+    position: absolute;
+    top: 5%;
+    right: 20%;
+    font-size: 30px;
+    cursor: pointer;  
+    
+}
+
+.imagen p {
+    position: absolute;
+    width: 70%;
+    top: 60%;
+    left: 15%;
+    color: white;
+    font-size: 20px;
+    cursor: pointer; 
+
+}
